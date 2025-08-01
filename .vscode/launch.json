@@ -1,0 +1,150 @@
+// {
+//     // Use IntelliSense to learn about possible attributes.
+//     // Hover to view descriptions of existing attributes.
+//     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+//     "version": "0.2.0",
+//     "configurations": []
+// }
+
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "HashMapPract",
+      "request": "launch",
+      "mainClass": "JavaProgramming.HashMapPract",
+      "projectName": "DhanalaxmiEnggProject_8196e968"
+    },
+    {
+      "type": "java",
+      "name": "BubbleSort",
+      "request": "launch",
+      "mainClass": "JavaProgramming.BubbleSort",
+      "projectName": "DhanalaxmiEnggProject_8196e968"
+    },
+    {
+      "type": "java",
+      "name": "Counter",
+      "request": "launch",
+      "mainClass": "JavaProgramming.Counter",
+      "projectName": "DhanalaxmiEnggProject_8196e968"
+    },
+    {
+      "type": "java",
+      "name": "StaticEx",
+      "request": "launch",
+      "mainClass": "JavaProgramming.StaticEx",
+      "projectName": "DhanalaxmiEnggProject_8196e968"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "JavaProgramming.Main",
+      "projectName": "DhanalaxmiEnggProject_8196e968"
+    },
+    {
+      "type": "java",
+      "name": "Animal2",
+      "request": "launch",
+      "mainClass": "JavaProgramming.Animal2",
+      "projectName": "DhanalaxmiEnggProject_8196e968"
+    },
+    {
+      "type": "java",
+      "name": "Animal1",
+      "request": "launch",
+      "mainClass": "JavaProgramming.Animal1",
+      "projectName": "DhanalaxmiEnggProject_8196e968"
+    },
+    {
+      "type": "java",
+      "name": "ReverseArray",
+      "request": "launch",
+      "mainClass": "JavaProgramming.ReverseArray",
+      "projectName": "DhanalaxmiEnggProject_8196e968"
+    },
+    {
+      "type": "java",
+      "name": "PrimeNum",
+      "request": "launch",
+      "mainClass": "JavaProgramming.PrimeNum",
+      "projectName": "DhanalaxmiEnggProject_8196e968"
+    },
+    {
+      "type": "java",
+      "name": "MySecond",
+      "request": "launch",
+      "mainClass": "JavaProgramming.MySecond",
+      "projectName": "DhanalaxmiEnggProject_8196e968"
+    },
+    {
+      "type": "java",
+      "name": "MyFirst",
+      "request": "launch",
+      "mainClass": "JavaProgramming.MyFirst",
+      "projectName": "DhanalaxmiEnggProject_8196e968"
+    },
+    {
+      "name": "(gdb) Attach",
+      "type": "cppdbg",
+      "request": "attach",
+      "program": "enter program name, for example ${workspaceFolder}/a.exe",
+      "MIMode": "gdb",
+      "miDebuggerPath": "/path/to/gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        },
+        {
+          "description": "Set Disassembly Flavor to Intel",
+          "text": "-gdb-set disassembly-flavor intel",
+          "ignoreFailures": true
+        }
+      ]
+    },
+    {
+      "name": "(gdb) Attach",
+      "type": "cppdbg",
+      "request": "attach",
+      "program": "enter program name, for example ${workspaceFolder}/a.exe",
+      "MIMode": "gdb",
+      "miDebuggerPath": "/path/to/gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        },
+        {
+          "description": "Set Disassembly Flavor to Intel",
+          "text": "-gdb-set disassembly-flavor intel",
+          "ignoreFailures": true
+        }
+      ]
+    },
+    {
+      "name": "C Debug (GDB/MinGW)",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/hello.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "environment": [],
+      "externalConsole": true,
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:/mingw64/bin/gdb.exe",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
