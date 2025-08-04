@@ -11,6 +11,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "QueueImpl",
+      "request": "launch",
+      "mainClass": "JavaProgramming.QueueImpl",
+      "projectName": "DhanalaxmiEnggProject_8196e968"
+    },
+    {
+      "type": "java",
+      "name": "StackOperation",
+      "request": "launch",
+      "mainClass": "JavaProgramming.StackOperation",
+      "projectName": "DhanalaxmiEnggProject_8196e968"
+    },
+    {
+      "type": "java",
+      "name": "LinkedList",
+      "request": "launch",
+      "mainClass": "JavaProgramming.LinkedList",
+      "projectName": "DhanalaxmiEnggProject_8196e968"
+    },
+    {
+      "type": "java",
+      "name": "QueueDemo",
+      "request": "launch",
+      "mainClass": "JavaProgramming.QueueDemo",
+      "projectName": "DhanalaxmiEnggProject_8196e968"
+    },
+    {
+      "type": "java",
+      "name": "StackDemo",
+      "request": "launch",
+      "mainClass": "JavaProgramming.StackDemo",
+      "projectName": "DhanalaxmiEnggProject_8196e968"
+    },
+    {
+      "type": "java",
       "name": "HashMapPract",
       "request": "launch",
       "mainClass": "JavaProgramming.HashMapPract",
