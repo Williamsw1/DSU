@@ -34,7 +34,6 @@ public class LinkedList {
         temp.next = newNode;
     }
 
-
     // 3. Delete at beginning
     public void deleteAtBeginning() {
         if (head == null) {

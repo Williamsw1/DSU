@@ -11,6 +11,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LinkedReverse",
+      "request": "launch",
+      "mainClass": "JavaProgramming.LinkedReverse",
+      "projectName": "DhanalaxmiEnggProject_8196e968"
+    },
+    {
+      "type": "java",
+      "name": "AdjacencyList",
+      "request": "launch",
+      "mainClass": "JavaProgramming.AdjacencyList",
+      "projectName": "DhanalaxmiEnggProject_8196e968"
+    },
+    {
+      "type": "java",
+      "name": "BinarySearchTree",
+      "request": "launch",
+      "mainClass": "JavaProgramming.BinarySearchTree",
+      "projectName": "DhanalaxmiEnggProject_8196e968"
+    },
+    {
+      "type": "java",
+      "name": "BinaryTree",
+      "request": "launch",
+      "mainClass": "JavaProgramming.BinaryTree",
+      "projectName": "DhanalaxmiEnggProject_8196e968"
+    },
+    {
+      "type": "java",
+      "name": "QuickSortProg",
+      "request": "launch",
+      "mainClass": "JavaProgramming.QuickSortProg",
+      "projectName": "DhanalaxmiEnggProject_8196e968"
+    },
+    {
+      "type": "java",
       "name": "QueueImpl",
       "request": "launch",
       "mainClass": "JavaProgramming.QueueImpl",
